@@ -1,7 +1,8 @@
+package ru.netology;
+
 import com.github.javafaker.Faker;
 import lombok.Value;
 
-import java.sql.Ref;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Locale;
